@@ -1,3 +1,3 @@
-This repository contains the data and code accompanying the paper: X. Hu, W. Su, Z. Ye, and X. Zhao. Deep Conditional Generative Learning for Optimal Individualized Treatment Rules. Preprint, 2026+.
+This repository contains the data and code accompanying the paper: Hu, X., Su, W., Ye, Z., and Zhao, X. Deep Conditional Generative Learning for Optimal Individualized Treatment Rules. Preprint, 2026+.
 
 The Python scripts (*.py) with suffixes _CG, _UCG, and _GANITE implement CG-learning, UCG-learning, and GANITE, respectively. The R scripts provide implementations of the classical benchmark methods. The code is organized into subfolders corresponding to sections in the paper. Each subfolder contains a Readme.docx file that provides detailed instructions for reproducing the results in that section.
